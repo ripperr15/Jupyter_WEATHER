@@ -1,8 +1,6 @@
 ## Project Overview:
 This project, structured as a Python script in Jupyter Notebooks, is designed to analyze weather data in Toronto from the year 1900 to 2023. It uses a variety of visualization and statistical analysis techniques to allow users to observe trends, patterns, and other information contained in the weather data.
 
-# Toronto Weather Analysis
-
 ## Description
 The Toronto Weather Analysis project is a meticulous study of the weather patterns observed in Toronto, utilizing the extensive dataset spanning from the year 1900 to 2023. The objective is to decipher trends, anomalies, and regularities within the climatic data and present them in an intuitive and graphical format, enabling a profound understanding of Toronto's weather dynamics. The analysis is structured within a Python-based Jupyter Notebook, leveraging the versatility of the Raspberry Pi platform.
 
